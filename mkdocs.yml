@@ -20,6 +20,15 @@ theme:
 #  custom_dir: custom_theme/
 
 nav:
+<<<<<<< HEAD
+=======
+  - Getting Started:
+    - Installation: './getting-started/installation.md'
+    - "Submit smart contract": './getting-started/submitting_contract.md'
+    - "Creating FET-20 contract": './getting-started/erc20.md'
+    - "Creating FET-721 contract": './getting-started/erc721.md'
+#    - "Deploying an agent": './getting-started/prediction_agent.md'
+>>>>>>> a1b0d0fb98f5596054fd8c68a4f9c11c881b6dcd
  # - Smart Ledger:
  #   - Getting started: 'smart-ledger/placeholder.md'
 
